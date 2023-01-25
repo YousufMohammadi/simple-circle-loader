@@ -19,12 +19,12 @@
     margin: 0 auto;
 }
 .loader span{
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     background: linear-gradient(#fff, #fff) padding-box,
     linear-gradient(to right, #FF5b3e, #9932cc, #FF2525) border-box;
 border-radius: 50em;
-border: 15px solid transparent;
+border: 10px solid transparent;
     background-repeat: no-repeat;
     animation: animate 1s linear infinite;
 }
